@@ -1,5 +1,7 @@
 {
     "name": "optimus/heimdal",
+    "description": "Heimdal is a Laravel exception handler build specifically for APIs",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Optimus\\Heimdal\\": "src/"
